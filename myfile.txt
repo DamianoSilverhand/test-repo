@@ -1,0 +1,2 @@
+This is another text file. and of all editors, we are using nano. what happened to atom?
+These are new words for commiting
